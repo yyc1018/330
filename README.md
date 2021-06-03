@@ -17,7 +17,7 @@ Below is a brief description of each file's contents in the order that they were
 
 - mcmc.py: PyDREAM implementation of MCMC. Written by my supervisor, Dr Ruben Perez-Carrasco
 
-- pydream_results: file containing all MCMC results. MCMC results from each run are stored in folders numbered from 2 to 5. Each of these folders contain parapop_sampled_params_chain_i.npy files where i = 1 to 5 for each of the 5 chains.
+- pydream_results: contains a WeTransfer link to a file containing all MCMC results. MCMC results from each run are stored in folders numbered from 2 to 5. Each of these folders contain parapop_sampled_params_chain_i.npy files where i = 1 to 5 for each of the 5 chains.
 
 - plots_mcmc.py: required to plot pydream_results 2
 
