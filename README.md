@@ -5,9 +5,7 @@ Provided are all experimental data, scripts, and Bayesian inference result files
 
 Below is a brief description of each file's contents in the order that they were used.
 
-- allData: contains a WeTransfer link to all experimental data
-
-- experimentalData.py and mean_experimentalData.py: extracts the stator stoichiometry trajectories from experimentalData files
+- experimentalData.py and mean_experimentalData.py: extracts the stator stoichiometry trajectories from experimental data files provided by Nord et al.
 
 - leastSquares.py
 
